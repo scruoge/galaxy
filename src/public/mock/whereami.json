@@ -1,0 +1,40 @@
+{
+  "user": {
+    "uid": "7c484c99-4937-482e-ad07-0f66fbe9a414",
+    "name": "Name",
+    "chars": {},
+    "avatar": "avatar",
+    "bio": []
+  },
+  "ship": {
+    "uid": "4d820408-1101-4064-ad4e-5dc479c5504c",
+    "name": "Ship name",
+    "type": 1,
+    "model": 1,
+    "owner": true,
+    "hull": {
+      "current": 100,
+      "max": 100
+    },
+    "shield": {
+      "current": 100,
+      "max": 100
+    },
+    "add_distance": 4,
+    "moduls": []
+  },
+  "place": {
+    "type": 1,
+    "name": "star",
+    "params": {
+      "uid": "a6586ac4-e1cf-4bba-a7c0-30622b5b1416",
+      "type": 8,
+      "parent": {
+        "uid": "58810495b3d8f3336af81dcd",
+        "type": 2,
+        "genus": 2,
+        "parent": {}
+      }
+    }
+  }
+}

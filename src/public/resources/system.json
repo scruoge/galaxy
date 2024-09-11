@@ -1,0 +1,640 @@
+{
+  "code": 0,
+  "object": {
+    "_id": {
+      "$oid": "57de0d0ed456ef2bfee272f6"
+    },
+    "chars": {
+      "parcels": []
+    },
+    "coordinates": {
+      "units": "pk",
+      "x": 171.18,
+      "y": 765.21,
+      "z": 10.232822185422513
+    },
+    "genus": 1,
+    "name": "New home",
+    "parent": {
+      "$oid": "57dcace0d456ef78b6e8ac91"
+    },
+    "type": 2
+  },
+  "children": [
+    {
+      "_id": {
+        "$oid": "57de0d0ed456ef2bfee27305"
+      },
+      "chars": {
+        "size": 50,
+        "parcels": []
+      },
+      "coordinates": {
+        "units": "ae",
+        "distance": 5.0,
+        "angle": 339
+      },
+      "genus": 1,
+      "name": "Renaissance",
+      "parent": {
+        "$oid": "57de0d0ed456ef2bfee272f6"
+      },
+      "type": 3,
+      "children": [
+        {
+          "_id": {
+            "$oid": "57de5217d456ef73bb75114a"
+          },
+          "chars": {
+            "size": 0,
+            "parcels": []
+          },
+          "coordinates": {
+            "units": "Mm",
+            "distance": 1.0,
+            "angle": 91
+          },
+          "genus": 3,
+          "name": "Satellite Renaissance-1",
+          "parent": {
+            "$oid": "57de0d0ed456ef2bfee27305"
+          },
+          "type": 4
+        },
+        {
+          "_id": {
+            "$oid": "57de5217d456ef73bb75114c"
+          },
+          "chars": {
+            "size": 8,
+            "parcels": []
+          },
+          "coordinates": {
+            "units": "Mm",
+            "distance": 2.0,
+            "angle": 42
+          },
+          "genus": 4,
+          "name": "Satellite Renaissance-2",
+          "parent": {
+            "$oid": "57de0d0ed456ef2bfee27305"
+          },
+          "type": 4
+        },
+        {
+          "_id": {
+            "$oid": "57de5218d456ef73bb751155"
+          },
+          "chars": {
+            "size": 10,
+            "parcels": []
+          },
+          "coordinates": {
+            "units": "Mm",
+            "distance": 3.0,
+            "angle": 271
+          },
+          "genus": 4,
+          "name": "Satellite Renaissance-3",
+          "parent": {
+            "$oid": "57de0d0ed456ef2bfee27305"
+          },
+          "type": 4
+        },
+        {
+          "_id": {
+            "$oid": "57de5218d456ef73bb751160"
+          },
+          "chars": {
+            "size": 2,
+            "parcels": []
+          },
+          "coordinates": {
+            "units": "Mm",
+            "distance": 4.0,
+            "angle": 127
+          },
+          "genus": 2,
+          "name": "Satellite Renaissance-4",
+          "parent": {
+            "$oid": "57de0d0ed456ef2bfee27305"
+          },
+          "type": 4
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "580a60a581081b11249854ae"
+      },
+      "chars": {
+        "size": 5,
+        "parcels": []
+      },
+      "coordinates": {
+        "units": "ae",
+        "distance": 9,
+        "angle": 312
+      },
+      "genus": 1,
+      "name": "KURC-411.01",
+      "parent": {
+        "$oid": "57de0d0ed456ef2bfee272f6"
+      },
+      "type": 5,
+      "children": []
+    },
+    {
+      "_id": {
+        "$oid": "580a60a581081b11249854cb"
+      },
+      "chars": {
+        "size": 1,
+        "parcels": []
+      },
+      "coordinates": {
+        "units": "ae",
+        "distance": 1,
+        "angle": 191
+      },
+      "genus": 2,
+      "name": "APE-345.34",
+      "parent": {
+        "$oid": "57de0d0ed456ef2bfee272f6"
+      },
+      "type": 5,
+      "children": []
+    },
+    {
+      "_id": {
+        "$oid": "580a60a681081b1124985569"
+      },
+      "chars": {
+        "size": 38,
+        "parcels": []
+      },
+      "coordinates": {
+        "units": "ae",
+        "distance": 3,
+        "angle": 162
+      },
+      "genus": 7,
+      "name": "Threeatronic",
+      "parent": {
+        "$oid": "57de0d0ed456ef2bfee272f6"
+      },
+      "type": 3,
+      "children": [
+        {
+          "_id": {
+            "$oid": "5881043cb3d8f3336af6d551"
+          },
+          "chars": {
+            "size": 6,
+            "parcels": []
+          },
+          "coordinates": {
+            "units": "Mm",
+            "distance": 3.0,
+            "angle": 333
+          },
+          "genus": 5,
+          "name": "Threeatronic-1",
+          "parent": {
+            "$oid": "580a60a681081b1124985569"
+          },
+          "type": 4
+        },
+        {
+          "_id": {
+            "$oid": "5881043cb3d8f3336af6d553"
+          },
+          "chars": {
+            "size": 4,
+            "parcels": []
+          },
+          "coordinates": {
+            "units": "Mm",
+            "distance": 1,
+            "angle": 113
+          },
+          "genus": 7,
+          "name": "Threeatronic-2",
+          "parent": {
+            "$oid": "580a60a681081b1124985569"
+          },
+          "type": 4
+        },
+        {
+          "_id": {
+            "$oid": "5881043cb3d8f3336af6d554"
+          },
+          "chars": {
+            "size": 15,
+            "parcels": []
+          },
+          "coordinates": {
+            "units": "Mm",
+            "distance": 2,
+            "angle": 96
+          },
+          "genus": 1,
+          "name": "Threeatronic-3",
+          "parent": {
+            "$oid": "580a60a681081b1124985569"
+          },
+          "type": 4
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5881043cb3d8f3336af6d571"
+      },
+      "chars": {
+        "size": 44,
+        "parcels": []
+      },
+      "coordinates": {
+        "units": "ae",
+        "distance": 11,
+        "angle": 220
+      },
+      "genus": 3,
+      "name": "Vesta",
+      "parent": {
+        "$oid": "57de0d0ed456ef2bfee272f6"
+      },
+      "type": 3,
+      "children": [
+        {
+          "_id": {
+            "$oid": "5881043cb3d8f3336af6d570"
+          },
+          "chars": {
+            "size": 12,
+            "parcels": []
+          },
+          "coordinates": {
+            "units": "Mm",
+            "distance": 5.0,
+            "angle": 243
+          },
+          "genus": 2,
+          "name": "Satellite Planet 1-11-0",
+          "parent": {
+            "$oid": "5881043cb3d8f3336af6d571"
+          },
+          "type": 4
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5881043cb3d8f3336af6d732"
+      },
+      "chars": {
+        "size": 47,
+        "parcels": []
+      },
+      "coordinates": {
+        "units": "ae",
+        "distance": 8,
+        "angle": 264
+      },
+      "genus": 1,
+      "name": "Rosalie",
+      "parent": {
+        "$oid": "57de0d0ed456ef2bfee272f6"
+      },
+      "type": 3,
+      "children": [
+        {
+          "_id": {
+            "$oid": "5881043cb3d8f3336af6d731"
+          },
+          "chars": {
+            "size": 9,
+            "parcels": []
+          },
+          "coordinates": {
+            "units": "Mm",
+            "distance": 5.0,
+            "angle": 114
+          },
+          "genus": 2,
+          "name": "Satellite Planet 24-8-0",
+          "parent": {
+            "$oid": "5881043cb3d8f3336af6d732"
+          },
+          "type": 4
+        },
+        {
+          "_id": {
+            "$oid": "5881043cb3d8f3336af6d733"
+          },
+          "chars": {
+            "size": 14,
+            "parcels": []
+          },
+          "coordinates": {
+            "units": "Mm",
+            "distance": 1,
+            "angle": 217
+          },
+          "genus": 7,
+          "name": "Sattellite Planet 24-8-1",
+          "parent": {
+            "$oid": "5881043cb3d8f3336af6d732"
+          },
+          "type": 4
+        },
+        {
+          "_id": {
+            "$oid": "5881043cb3d8f3336af6d734"
+          },
+          "chars": {
+            "size": 5,
+            "parcels": []
+          },
+          "coordinates": {
+            "units": "Mm",
+            "distance": 2,
+            "angle": 36
+          },
+          "genus": 6,
+          "name": "Sattellite Planet 24-8-2",
+          "parent": {
+            "$oid": "5881043cb3d8f3336af6d732"
+          },
+          "type": 4
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5881043db3d8f3336af6db5b"
+      },
+      "chars": {
+        "size": 48,
+        "parcels": []
+      },
+      "coordinates": {
+        "units": "ae",
+        "distance": 2,
+        "angle": 9
+      },
+      "genus": 1,
+      "name": "Zaonce",
+      "parent": {
+        "$oid": "57de0d0ed456ef2bfee272f6"
+      },
+      "type": 3,
+      "children": [
+        {
+          "_id": {
+            "$oid": "5881043db3d8f3336af6db5a"
+          },
+          "chars": {
+            "size": 5,
+            "parcels": []
+          },
+          "coordinates": {
+            "units": "Mm",
+            "distance": 5.0,
+            "angle": 178
+          },
+          "genus": 3,
+          "name": "Sattellite Planet 82-2-0",
+          "parent": {
+            "$oid": "5881043db3d8f3336af6db5b"
+          },
+          "type": 4
+        },
+        {
+          "_id": {
+            "$oid": "5881043db3d8f3336af6db5c"
+          },
+          "chars": {
+            "size": 9,
+            "parcels": []
+          },
+          "coordinates": {
+            "units": "Mm",
+            "distance": 1,
+            "angle": 226
+          },
+          "genus": 6,
+          "name": "Sattellite Planet 82-2-1",
+          "parent": {
+            "$oid": "5881043db3d8f3336af6db5b"
+          },
+          "type": 4
+        },
+        {
+          "_id": {
+            "$oid": "5881043db3d8f3336af6db5d"
+          },
+          "chars": {
+            "size": 14,
+            "parcels": []
+          },
+          "coordinates": {
+            "units": "Mm",
+            "distance": 2,
+            "angle": 211
+          },
+          "genus": 8,
+          "name": "Sattellite Planet 82-2-2",
+          "parent": {
+            "$oid": "5881043db3d8f3336af6db5b"
+          },
+          "type": 4
+        },
+        {
+          "_id": {
+            "$oid": "5881043db3d8f3336af6db5e"
+          },
+          "chars": {
+            "size": 2,
+            "parcels": []
+          },
+          "coordinates": {
+            "units": "Mm",
+            "distance": 3,
+            "angle": 65
+          },
+          "genus": 8,
+          "name": "Sattellite Planet 82-2-3",
+          "parent": {
+            "$oid": "5881043db3d8f3336af6db5b"
+          },
+          "type": 4
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5881043eb3d8f3336af6dfc8"
+      },
+      "chars": {
+        "size": 50,
+        "parcels": []
+      },
+      "coordinates": {
+        "units": "ae",
+        "distance": 6,
+        "angle": 178
+      },
+      "genus": 5,
+      "name": "Miaculp",
+      "parent": {
+        "$oid": "57de0d0ed456ef2bfee272f6"
+      },
+      "type": 3,
+      "children": [
+        {
+          "_id": {
+            "$oid": "5881043eb3d8f3336af6dfc7"
+          },
+          "chars": {
+            "size": 6,
+            "parcels": []
+          },
+          "coordinates": {
+            "units": "Mm",
+            "distance": 5.0,
+            "angle": 71
+          },
+          "genus": 6,
+          "name": "Sattellite Planet 148-6-0",
+          "parent": {
+            "$oid": "5881043eb3d8f3336af6dfc8"
+          },
+          "type": 4
+        },
+        {
+          "_id": {
+            "$oid": "5881043eb3d8f3336af6dfc9"
+          },
+          "chars": {
+            "size": 14,
+            "parcels": []
+          },
+          "coordinates": {
+            "units": "Mm",
+            "distance": 1,
+            "angle": 339
+          },
+          "genus": 7,
+          "name": "Sattellite Planet 148-6-1",
+          "parent": {
+            "$oid": "5881043eb3d8f3336af6dfc8"
+          },
+          "type": 4
+        },
+        {
+          "_id": {
+            "$oid": "5881043eb3d8f3336af6dfca"
+          },
+          "chars": {
+            "size": 3,
+            "parcels": []
+          },
+          "coordinates": {
+            "units": "Mm",
+            "distance": 2,
+            "angle": 212
+          },
+          "genus": 4,
+          "name": "Sattellite Planet 148-6-2",
+          "parent": {
+            "$oid": "5881043eb3d8f3336af6dfc8"
+          },
+          "type": 4
+        },
+        {
+          "_id": {
+            "$oid": "5881043eb3d8f3336af6dfcb"
+          },
+          "chars": {
+            "size": 6,
+            "parcels": []
+          },
+          "coordinates": {
+            "units": "Mm",
+            "distance": 3,
+            "angle": 98
+          },
+          "genus": 3,
+          "name": "Sattellite Planet 148-6-3",
+          "parent": {
+            "$oid": "5881043eb3d8f3336af6dfc8"
+          },
+          "type": 4
+        },
+        {
+          "_id": {
+            "$oid": "5881043eb3d8f3336af6dfcc"
+          },
+          "chars": {
+            "size": 2,
+            "parcels": []
+          },
+          "coordinates": {
+            "units": "Mm",
+            "distance": 4,
+            "angle": 133
+          },
+          "genus": 2,
+          "name": "Sattellite Planet 148-6-4",
+          "parent": {
+            "$oid": "5881043eb3d8f3336af6dfc8"
+          },
+          "type": 4
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5881043fb3d8f3336af6e105"
+      },
+      "chars": {
+        "size": 27,
+        "parcels": []
+      },
+      "coordinates": {
+        "units": "ae",
+        "distance": 7,
+        "angle": 153
+      },
+      "genus": 3,
+      "name": "Pew-Pew",
+      "parent": {
+        "$oid": "57de0d0ed456ef2bfee272f6"
+      },
+      "type": 3,
+      "children":[]
+    },
+    {
+      "_id": {
+        "$oid": "58f5d8e0b3d8f3538353e0a6"
+      },
+      "chars": {
+        "size": 0
+      },
+      "coordinates": {
+        "distance": 12,
+        "angle": 262,
+        "units": "ae"
+      },
+      "genus": 5,
+      "name": "Drop-zone",
+      "parent": {
+        "$oid": "57de0d0ed456ef2bfee272f6"
+      },
+      "type": 8,
+      "children":[]
+    }
+  ]
+}
